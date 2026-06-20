@@ -1,0 +1,3 @@
+/home/simo/code/game_project/KDQS/build/CMakeFiles/game.dir
+/home/simo/code/game_project/KDQS/build/CMakeFiles/edit_cache.dir
+/home/simo/code/game_project/KDQS/build/CMakeFiles/rebuild_cache.dir

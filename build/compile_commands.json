@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/main.cpp.o -c /home/simo/code/game_project/KDQS/src/main.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/game.cpp.o -c /home/simo/code/game_project/KDQS/src/game.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/game.cpp",
+  "output": "CMakeFiles/game.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/timer.cpp.o -c /home/simo/code/game_project/KDQS/src/timer.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/timer.cpp",
+  "output": "CMakeFiles/game.dir/src/timer.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/camera.cpp.o -c /home/simo/code/game_project/KDQS/src/camera.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/camera.cpp",
+  "output": "CMakeFiles/game.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/atlas.cpp.o -c /home/simo/code/game_project/KDQS/src/atlas.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/atlas.cpp",
+  "output": "CMakeFiles/game.dir/src/atlas.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/animation.cpp.o -c /home/simo/code/game_project/KDQS/src/animation.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/animation.cpp",
+  "output": "CMakeFiles/game.dir/src/animation.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/collision_box.cpp.o -c /home/simo/code/game_project/KDQS/src/collision_box.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/collision_box.cpp",
+  "output": "CMakeFiles/game.dir/src/collision_box.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/manager/resource_manager.cpp.o -c /home/simo/code/game_project/KDQS/src/manager/resource_manager.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/manager/resource_manager.cpp",
+  "output": "CMakeFiles/game.dir/src/manager/resource_manager.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/manager/collision_manager.cpp.o -c /home/simo/code/game_project/KDQS/src/manager/collision_manager.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/manager/collision_manager.cpp",
+  "output": "CMakeFiles/game.dir/src/manager/collision_manager.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/manager/state_machine.cpp.o -c /home/simo/code/game_project/KDQS/src/manager/state_machine.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/manager/state_machine.cpp",
+  "output": "CMakeFiles/game.dir/src/manager/state_machine.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/manager/character_manager.cpp.o -c /home/simo/code/game_project/KDQS/src/manager/character_manager.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/manager/character_manager.cpp",
+  "output": "CMakeFiles/game.dir/src/manager/character_manager.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/manager/bullet_time_manager.cpp.o -c /home/simo/code/game_project/KDQS/src/manager/bullet_time_manager.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/manager/bullet_time_manager.cpp",
+  "output": "CMakeFiles/game.dir/src/manager/bullet_time_manager.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/character.cpp.o -c /home/simo/code/game_project/KDQS/src/character.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/character.cpp",
+  "output": "CMakeFiles/game.dir/src/character.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/player/player.cpp.o -c /home/simo/code/game_project/KDQS/src/player/player.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/player/player.cpp",
+  "output": "CMakeFiles/game.dir/src/player/player.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/enemy/enemy.cpp.o -c /home/simo/code/game_project/KDQS/src/enemy/enemy.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/enemy/enemy.cpp",
+  "output": "CMakeFiles/game.dir/src/enemy/enemy.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/player/player_state_node.cpp.o -c /home/simo/code/game_project/KDQS/src/player/player_state_node.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/player/player_state_node.cpp",
+  "output": "CMakeFiles/game.dir/src/player/player_state_node.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/enemy/sword.cpp.o -c /home/simo/code/game_project/KDQS/src/enemy/sword.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/enemy/sword.cpp",
+  "output": "CMakeFiles/game.dir/src/enemy/sword.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/enemy/barb.cpp.o -c /home/simo/code/game_project/KDQS/src/enemy/barb.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/enemy/barb.cpp",
+  "output": "CMakeFiles/game.dir/src/enemy/barb.cpp.o"
+},
+{
+  "directory": "/home/simo/code/game_project/KDQS/build",
+  "command": "/usr/bin/g++  -I/home/simo/code/game_project/KDQS/include -I/home/simo/code/game_project/KDQS/include/manager -I/home/simo/code/game_project/KDQS/include/player -I/home/simo/code/game_project/KDQS/include/enemy -I/home/simo/code/game_project/KDQS/thirdparty -isystem /usr/include/SDL2 -g -std=c++17 -Wall -Wpedantic -o CMakeFiles/game.dir/src/enemy/enemy_state_node.cpp.o -c /home/simo/code/game_project/KDQS/src/enemy/enemy_state_node.cpp",
+  "file": "/home/simo/code/game_project/KDQS/src/enemy/enemy_state_node.cpp",
+  "output": "CMakeFiles/game.dir/src/enemy/enemy_state_node.cpp.o"
+}
+]
